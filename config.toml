@@ -1,5 +1,5 @@
 title = "zbcwilliam's blog"
-baseURL = "https://zbcwilliam.tk"
+baseURL = "https://zbcwilliam.ml"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+show_reading_time = true
 
 [sitemap]
   changefreq = "monthly"
